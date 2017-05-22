@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-
+Git学习，欢迎一起交流！！！
 You can use the [editor on GitHub](https://github.com/windworld17/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
